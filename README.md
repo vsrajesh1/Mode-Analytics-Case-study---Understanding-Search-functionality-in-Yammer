@@ -5,7 +5,7 @@ Case study is performed to understand whether the technical team in yammer shoul
 search functionality or not. A mode analytics report is generated and it displays the query results along with various charts 
 to help yammer team make an informed decision.
 
-First Chart in mode analytics report:
+First Chart in mode analytics report (Refer Query1 for the results in table format):
 1) First chart in the Mode analytics report shows the count of users involved in various events. As shown in this chart, 
 the number of users making use of search_click_result_X are lesser than the count of users involved in other events. 
 2) Also, the search_click_result_2 has more count than search_click_result_1. In such cases, it is better to show the 
@@ -18,3 +18,5 @@ to improve the search functionality and the mode of displaying the results.
 
 
 Second Chart in mode analytics report:
+1) Second chart shows the various devices accessing the SEARCH functionality and the count of their devices. A pivot table displays the number of devices accessing various events.
+2) 
